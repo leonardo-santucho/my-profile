@@ -1,34 +1,30 @@
-Highlights by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Leonardo Santucho - Perfil Profesional
 
+Sitio personal desarrollado como presentación de mis servicios en tecnología.  
+Basado en el template **Highlights** de HTML5 UP, adaptado y personalizado.
 
-Just a fun little single pager I whipped up to test out my new scroll events plugin
-(github.com/ajlkn/jquery.scrollex). Clean, simple, fully responsive, and loaded with
-all the usual pre-styled elements. Enjoy :)
+## ✍ Sobre mí
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Soy Ingeniero en Sistemas, con más de 10 años de experiencia liderando proyectos IT, automatizando procesos y desarrollando soluciones digitales.
 
-(* = Not included)
+## 🚀 Qué encontrarás en este sitio
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+- Presentación profesional y servicios que ofrezco
+- Enlace a mis redes de contacto (LinkedIn, GitHub, WhatsApp)
+- Información clara sobre mis especialidades y experiencia
 
-AJ
-aj@lkn.io | @ajlkn
+## ⚙️ Tecnologías utilizadas
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+- HTML5 + CSS3 (Template Responsive)
+- Font Awesome para íconos
+- jQuery y librerías auxiliares (Scrolllex, Responsive Tools)
 
+## 📄 Créditos
 
-Credits:
+- Template base: [HTML5 UP - Highlights](https://html5up.net/highlights)
+- Imágenes: [Unsplash](https://unsplash.com)
+- Íconos: [Font Awesome](https://fontawesome.com)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+© 2025 Leonardo Santucho
