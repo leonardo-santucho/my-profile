@@ -37,6 +37,12 @@ ol, ul {
 	list-style: none;
 }
 
+
+
+
+
+  
+
 blockquote, q {
 	quotes: none;
 }
@@ -3158,3 +3164,32 @@ input, select, textarea {
 				}
 
 	}
+
+	#header {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		height: 100vh;
+		padding: 0;
+		text-align: center;
+	  }
+	  
+	  #header .inner {
+		width: 100%;
+		padding: 0 1.5rem;
+	  }
+	  
+	  #header header.major {
+		margin-bottom: 1.5rem;
+	  }
+	  
+	  #header .header-icons {
+		justify-content: center;
+		margin-top: 1rem;
+	  }
+	  
+	  #header .container {
+		margin-top: 1.5rem;
+	  }
+	   
+  
