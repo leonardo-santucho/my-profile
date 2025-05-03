@@ -3193,3 +3193,19 @@ input, select, textarea {
 	  }
 	   
   
+	  .contact-icons {
+		display: flex;
+		justify-content: center;
+		gap: 2rem;
+		margin-top: 2rem;
+	  }
+	  
+	  .contact-icons a {
+		font-size: 2.2rem;
+		color: #333;
+		transition: color 0.3s ease;
+	  }
+	  
+	  .contact-icons a:hover {
+		color: #61c191;
+	  }
