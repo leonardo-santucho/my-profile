@@ -2,6 +2,8 @@
 
 Sitio personal desarrollado como presentación de mis servicios en tecnología.  
 
+Site: https://leonardo-santucho.github.io/my-profile/ 
+
 ## Sobre mí
 
 Soy Ingeniero en Sistemas, con más de 10 años de experiencia liderando proyectos IT, automatizando procesos y desarrollando soluciones digitales.
